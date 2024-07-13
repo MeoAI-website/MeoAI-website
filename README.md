@@ -2,9 +2,9 @@
 
 ## click here: 🌐 [MeoAI网站直达](https://www.meoai.net/)
 
-2024年最新AI工具集合，全网最全AI工具集合，所有免费AI产品，5000＋AI工具导航 | 全球AI工具集合
+🖥️2024年最新AI工具集合，全网最全AI工具集合，所有免费AI产品，5000＋AI工具导航 | 全球AI工具集合
 
-每日更新和添加最新AI工具，包括AI写作工具、AI图像生成和背景移除、AI视频制作、AI音频转录、AI辅助编程、AI音乐生成、AI绘画设计、AI对话聊天等AI工具集合大全，以及AI学习开发的常用网站、框架和模型，帮助你加入人工智能浪潮，自动化高效完成任务！
+🔍每日更新和添加最新AI工具，包括AI写作工具、AI图像生成和背景移除、AI视频制作、AI音频转录、AI辅助编程、AI音乐生成、AI绘画设计、AI对话聊天等AI工具集合大全，以及AI学习开发的常用网站、框架和模型，帮助你加入人工智能浪潮，自动化高效完成任务！
 
 ![MeoAI网站截图](https://github.com/MeoAI-website/MeoAI-website/blob/main/website-cut.jpg)
 <!--
