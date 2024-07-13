@@ -6,6 +6,7 @@ MeoAI - Most Efficient and Omni AI Toolset；
 
 每日更新和添加最新AI工具，包括AI写作工具、AI图像生成和背景移除、AI视频制作、AI音频转录、AI辅助编程、AI音乐生成、AI绘画设计、AI对话聊天等AI工具集合大全，以及AI学习开发的常用网站、框架和模型，帮助你加入人工智能浪潮，自动化高效完成任务！
 
+![MeoAI网站截图](图像URL)
 <!--
 **MeoAI-website/MeoAI-website** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
